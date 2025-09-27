@@ -1,4 +1,4 @@
-# AI-Final Project
+# AI-Enhanced Learning Assistant Platform
 
 This project is a full-stack application for generating and evaluating academic questions using Google Gemini AI, with PDF upload, web search, and threaded chat features.
 
